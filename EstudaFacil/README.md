@@ -26,5 +26,3 @@ A proposta é oferecer um guia simples e útil para estudantes organizarem estud
 - comentário HTML explicando uma dificuldade
 - sem CSS
 
-## Observação obrigatória
-No arquivo `html/dicas.html`, substitua o texto entre colchetes no `<blockquote>` pela frase exata sobre HTML dita pelo professor durante as aulas.
